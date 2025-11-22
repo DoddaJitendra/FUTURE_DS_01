@@ -8,7 +8,8 @@ The dashboard visually represents key metrics such as total sales, budget amount
 ## 🖼️ Dashboard Preview
 
 
----![PHOTO-2025-11-04-21-07-52](https://github.com/user-attachments/assets/cc5a4454-3ccf-436a-ade8-0c03af0130fe)
+![t1 (1)](https://github.com/user-attachments/assets/82a9dfce-99c5-4ed5-9f61-ca8ec349ff16)
+
 
 
 ---
